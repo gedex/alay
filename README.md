@@ -2,7 +2,6 @@ alay
 ====
 
 [![Build Status](https://travis-ci.org/gedex/alay.png?branch=master)](https://travis-ci.org/gedex/alay)
-[![Coverage Status](https://coveralls.io/repos/gedex/alay/badge.svg?branch=master&service=github)](https://coveralls.io/github/gedex/alay?branch=master)
 
 > Paket alay menyediakan utilitas untuk mengkonversi string menjadi string alay, dan sebaliknya.
 
