@@ -1,5 +1,5 @@
 {
-    "name": "gedex/alayer",
+    "name": "gedex/alay",
     "description": "Menyediakan utilitas untuk mengkonversi string menjadi string alay, dan sebaliknya",
     "type": "library",
     "require-dev": {
