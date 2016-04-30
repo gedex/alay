@@ -1,0 +1,23 @@
+{
+    "name": "gedex/alayer",
+    "description": "Menyediakan utilitas untuk mengkonversi string menjadi string alay, dan sebaliknya",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^5.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Akeda Bagus",
+            "email": "admin@gedex.web.id"
+        }
+    ],
+    "require": {
+        "php": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gedex\\Alay\\": "src/Gedex/Alay/"
+        }
+    }
+}
